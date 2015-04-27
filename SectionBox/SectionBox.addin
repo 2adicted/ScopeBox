@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command SectionBox</Text>
+    <Description>Some description for SectionBox</Description>
+    <Assembly>SectionBox.dll</Assembly>
+    <FullClassName>SectionBox.Command</FullClassName>
+    <ClientId>913405cf-5974-456a-82ad-ca8ada8e8e20</ClientId>
+    <VendorId>TBC_</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application SectionBox</Name>
+    <Assembly>SectionBox.dll</Assembly>
+    <FullClassName>SectionBox.App</FullClassName>
+    <ClientId>c600f170-973e-48a9-9be8-0ea2ef653131</ClientId>
+    <VendorId>TBC_</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
