@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SectionBox.Command" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgECIABEAAQAAAUACQBYQEAAgAAEQAAAgAAAAAAgggI=</HashCode>
+      <FileName>Command.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.19" Collapsed="true" />
+  </Class>
+  <Class Name="SectionBox.LoadExcel" Collapsed="true">
+    <Position X="1" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAACAAAAAAAACAAAACAAAIAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>LoadExcel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SectionBox.XYZMath" Collapsed="true">
+    <Position X="2.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAgAEAICAgAAAAAEAAACAAAAAAAAAgAAAA=</HashCode>
+      <FileName>XYZMath.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Arial" Size="8.25" />
+</ClassDiagram>

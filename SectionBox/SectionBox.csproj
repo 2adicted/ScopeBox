@@ -60,7 +60,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="App.cs" />
     <Compile Include="Command.cs" />
     <Compile Include="LoadExcel.cs">
       <SubType>Form</SubType>
@@ -72,6 +71,7 @@
     <Compile Include="XYZMath.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
     <None Include="SectionBox.addin" />
   </ItemGroup>
   <ItemGroup>
